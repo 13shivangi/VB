@@ -1,0 +1,15 @@
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.vbproj.AssemblyReference.cache
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.AssemblyInfoInputs.cache
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.AssemblyInfo.vb
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\VB\VBSample\VBSample\bin\Debug\net6.0\VBSample.exe
+C:\Users\Administrator\VB\VBSample\VBSample\bin\Debug\net6.0\VBSample.deps.json
+C:\Users\Administrator\VB\VBSample\VBSample\bin\Debug\net6.0\VBSample.runtimeconfig.json
+C:\Users\Administrator\VB\VBSample\VBSample\bin\Debug\net6.0\VBSample.dll
+C:\Users\Administrator\VB\VBSample\VBSample\bin\Debug\net6.0\VBSample.pdb
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.dll
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\refint\VBSample.dll
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.pdb
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\VBSample.genruntimeconfig.cache
+C:\Users\Administrator\VB\VBSample\VBSample\obj\Debug\net6.0\ref\VBSample.dll
